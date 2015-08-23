@@ -1,0 +1,71 @@
+<DOCTYPE html>
+<html>
+
+<head>
+	<title>Virtual Learning Environment</title>
+</head>
+
+<body>
+	<div id="wrapper">
+		<div class="header">
+		
+			<div class="logo">
+				<img src="vle.jpg" alt="Logo for VLE">
+			</div><!--end of logo-->
+			
+			<div class="header-title">
+				<h2>Welcome To Virtual Learning Environment</h2>
+			</div><!--end of header-title-->
+			
+			<div class="navigation">
+				<table cellspacing="12%">
+					<tr><td><b>HOME| </b></td>
+						<td><b>ABOUT US| </b></td>
+                                                <td><b>CLASSES| </b></td>
+                                                <td><b>NOTES| </b></td>
+						<td><b>CONTACT US </b></td>
+					</tr>
+					
+				</table>
+			</div><!--end of navigation-->
+		
+		</div><!--end of header-->		
+			
+		<div class="content">
+		
+			<div class="sidebar" width="200px" height="300px">
+			
+				<form>
+				<fieldset>
+				<legend>Login:</legend>
+					<table>
+						<tr><td><b>User Name</b>:</td><td><input type="text" placeholder="user name"></td></tr>
+						<tr><td><b>Password</b>:</td><td><input type="password" placeholder="password"></td></tr>
+						<tr><td><input type="checkbox">Remember Me</td><td><button type="submit">Login</button></td></tr>
+					</table>
+				</form>
+				</fieldset
+			</div><!--end of sidebar-->
+			
+			<div class="main-content" width="600px" height="400px">
+
+<p><b>Virtual Learning Environment</b><a href = "http://dwit.edu.np"> VLE </a> is the online learning environment. It is the <em> platform where student neednot be in the class physically but they can </em> attend the lecturers simply staying online at home. We will also provide <b>facility to get study materials </b> and<b>notes</b> provided by the lecturer during the non virtual classes. This will help students learning without actually attending the classes.</b>.</p>
+				<img src="vle_banner1.jpg" alt="virtual class" title="virtaul class" width="400px" height="300px">
+				<img src="vle_banner2.jpg" alt="e-learning" title="e-learning" width="400px" height="300px">
+				<img src="vle_banner3.jpg" alt="vle_banner3.jpg" width="400px" height="300px">
+				<p>Students will be able to study the courses that they could not study because of being absent during the real class. There are different categories in the class section where the users can choose whether participate in the live teaching program or attend the recorded program.</p>
+			</div><!--end of main-content-->
+			
+			<frameset cols="25%">
+				<frame src="info.html">
+			</frameset>
+		</div><!--end of content-->
+		
+		<div class="footer">
+			<hr>
+			<p align="center">&copy <em>2015, Virtual Learning Environment, All rights reserved.<em></p>
+		</div><!--end of footer-->
+		
+	</div><!--end of wrapper-->
+</body>
+</html>
